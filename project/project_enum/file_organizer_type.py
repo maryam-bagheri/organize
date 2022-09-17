@@ -5,3 +5,4 @@ class file_organizer_type(Enum):
     zip=3
     audio=4
     compress=5
+    exec=6
