@@ -4,3 +4,4 @@ class file_organizer_type(Enum):
     pdf=2
     zip=3
     audio=4
+    compress=5
