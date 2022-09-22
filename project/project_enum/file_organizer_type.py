@@ -8,3 +8,4 @@ class file_organizer_type(Enum):
     exec=6
     video=7
     excel=8
+    word=9
