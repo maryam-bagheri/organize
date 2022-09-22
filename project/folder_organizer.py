@@ -3,7 +3,7 @@ from pathlib import Path as pathlib
 from shutil import move
 from project_enum.file_organizer_type import file_organizer_type
 
-from file_organizer_strategy.file_orgabnizer_strategy import file_organizer_strategy
+from file_organizer_strategy.file_organizer_strategy import file_organizer_strategy
 
 class folder_organizer:
     def __init__(self) -> None:

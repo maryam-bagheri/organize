@@ -6,3 +6,5 @@ class file_organizer_type(Enum):
     audio=4
     compress=5
     exec=6
+    video=7
+    excel=8
